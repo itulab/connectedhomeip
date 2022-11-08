@@ -1,4 +1,4 @@
-nme: Matter_CICD_Demo
+name: Matter_CICD_Demo
 
 on:
   push:
